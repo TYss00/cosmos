@@ -424,17 +424,15 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 
 <br><br>
 
-### 7. Contact
+<br><br>
 
-- Cosmo 프로젝트 깃허브 레포지토리로 이동할수 있는 버튼을 두었습니다.
-- 각 팀원들의 이름을 클릭하면 해당 팀원의 깃허브 페이지로 이동합니다.
-
-### 8. 다크모드
+### 7. 다크모드
 
 - 다크모드대신 클릭하면 태양에서 달로 바뀌도록 하였습니다.
-  
-![darkmode](https://github.com/user-attachments/assets/00dd0dad-308b-4611-986e-b96f7278f5cf)
 
+<img src="https://github.com/user-attachments/assets/00dd0dad-308b-4611-986e-b96f7278f5cf" width="100%" alt="다크모드" />
+
+<br><br>
 
 ### 8. 404 Not Found
 - 잘못된 경로로 접근할 경우 사용자에게 404 Not Found 페이지를 표시합니다.
@@ -442,7 +440,12 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 
 <img src="https://github.com/user-attachments/assets/b6e2617e-70bc-4862-b925-252b1af3ef0c" width="100%" alt="오늘의 나사사진" />
 
+<br><br>
 
----
+### 9. Contact
 
-## 🚀 Trouble Shooting
+- Cosmo 프로젝트 깃허브 레포지토리로 이동할수 있는 버튼을 두었습니다.
+- 각 팀원들의 이름을 클릭하면 해당 팀원의 깃허브 페이지로 이동합니다.
+
+<img src="https://github.com/user-attachments/assets/233a58ee-f4d6-4920-b421-ef3149aad6f0" width="100%" alt="팀원소개" />
+
