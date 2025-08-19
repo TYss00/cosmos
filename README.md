@@ -345,14 +345,14 @@
 - 다른 작성자의 게시물에는 팔로우 및 언팔로우 버튼이 표시됩니다.
 - 프로필 클릭 시 해당 사용자의 페이지로 이동합니다.
   
-<img src="https://github.com/user-attachments/assets/c7a8515e-57f8-404b-9bff-da0273190533" width="100%" alt="게시글삭제" />
+<img src="https://github.com/user-attachments/assets/c7a8515e-57f8-404b-9bff-da0273190533" width="100%" alt="팔로우언팔로우" />
 <br>
 
 
 - 비로그인 사용자는 좋아요 기능과 게시글 열람이 제한됩니다.
 - 또한, 글 작성을 위한 post 버튼이 비활성화되어 글 작성이 불가능합니다.
   
-<img src="https://github.com/user-attachments/assets/947e8452-f4a3-4a12-92b3-a92de18ebac3" width="100%" alt="게시글삭제" />
+<img src="https://github.com/user-attachments/assets/947e8452-f4a3-4a12-92b3-a92de18ebac3" width="100%" alt="비로그인" />
 <br>
 
 
@@ -366,6 +366,8 @@
 <br><br>
 
 #### 3.3. Cosmo Talk
+우주에대한 이야기를 자유롭게하는곳입니다.
+<br>
 
 - 검색을 사용하여 최근검색기록과 검색내용이 나옵니다.
 
@@ -377,16 +379,52 @@
 <img src="https://github.com/user-attachments/assets/bd8ca1dc-5602-4cc7-b8ab-32ec7babffe5" width="100%" alt="팔로우" />
 
 <br><br>
+<br><br>
 
-### 4. Cosmo Lab
+### 4. My Page
+마이페이지에서 팔로우기록, 게시글목록등을 볼수있습니다.
+<br>
+
+
+> 상대방페이지
+
+- 팔로우와 언팔로우를 지정할수있으며 상대방의 글목록과 팔로우 목록을 확인할수있습니다.
+
+<img src="https://github.com/user-attachments/assets/8a5aca5b-fbd9-4d47-aaa6-64aeb7a9f7e3" width="100%" alt="상대방페이지" />
+<br>
+
+<br><br>
+
+
+> 마이페이지 
+
+- 프로필을 변경할수있습니다.
+
+<img src="https://github.com/user-attachments/assets/09d20b10-6e6f-48ff-b766-71de17509c29" width="100%" alt="프로필 변경" />
+<br>
+
+
+- 팔로우 목록에서 팔로우,언팔로우를 할수있습니다.
+- 글목록과 팔로우한 글들을 볼수있습니다.
+
+<img src="https://github.com/user-attachments/assets/d2a3020c-212b-496a-a1ac-8235632656b0" width="100%" alt="팔로우 목록" />
+<br>
+
+
+<br><br>
+<br><br>
+
+### 5. Cosmo Lab
 <mark> 우주 이미지 퍼즐, 과학 퀴즈, 그리고 실시간 랭킹으로 지식과 재미를 동시에 경험하는 인터랙티브 학습 공간을 마련했어요. </mark> <br>
-#### 4.1. Puzzle
+#### 5.1. Puzzle
 NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 게임으로, 주제(Category)와 난이도(Difficulty)를 선택하여 퍼즐을 진행합니다.
 <br>
 
 > 퍼즐 설정 (config) : zustand
 > - 카테고리 : space, film
 > - 난이도 : easy, medium, hard
+
+<img src="https://github.com/user-attachments/assets/88c5533a-9b0a-4a63-be87-ce3dc8bee0ff" width="100%" alt="시작화면" />
 <br>
 
 > 게임 화면
@@ -399,9 +437,16 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 > - Supabase를 통해 사용자의 퍼즐 점수 DB에 저장
 > - 퍼즐 이미지에 대한 설명은 Open AI 를 활용하여 자동 번역 및 요약 처리
 
+- Space게임
+<img src="https://github.com/user-attachments/assets/f65ef347-9acc-48f9-8b32-127080147f37" width="100%" alt="우주게임" />
 <br>
 
-#### 4.2. Quiz
+
+- Film게임게임
+<img src="https://github.com/user-attachments/assets/d3a8b725-fd0f-4d17-9f0c-f8b7bdcc8d9f" width="100%" alt="영화게임" />
+<br>
+
+#### 5.2. Quiz
 > 퀴즈 설정 (config) : 상태관리 (useState, useOutletContext)
 > - 난이도 : LV.1, LV.2, LV.3
 <br>
@@ -410,21 +455,21 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 > - OX형 / 4지선다형 문제 유형 지원
 > - Supabase에서 난이도별 문제 데이터 불러와 무작위 10문제 출제
 > - 사용자 선택 저장 및 이전/다음 문제 이동 시 답안 유지 및 수정 가능
+<img src="https://github.com/user-attachments/assets/a3cf4c24-bf7c-47f4-aa6f-60dde6f638e4" width="100%" alt="퀴즈풀기" />
 <br>
+
 
 > 게임 결과
 > - 점수 = (맞춘 문제 개수 × 난이도 계수) × 10
 > - Supabase에 사용자 답안과 점수 저장 및 기존 점수와 합산하여 랭킹 반영
+<img src="https://github.com/user-attachments/assets/07507a77-3712-4f85-a2d8-25ec071dba69" width="100%" alt="퀴즈결과" />
+<br>
 
-#### 4.3. Rank
+#### 5.3. Rank
 다른 사용자와 점수를 비교하고 경쟁하게 함으로써 게임의 몰입도를 높였습니다.
 - Puzzle과 Quiz 두 가지 카테고리별 랭킹을 제공합니다.
 - Top 3 랭커는 Podium 스타일로 시각적 강조하고 그 외 랭커는 리스트 형태로 순위 표시하였습니다.
 - Supabase를 통해 실시간 랭킹 조회 및 저장 기능을 구현하였습니다.
-
-<br><br>
-
-### 5. My Page
 
 <br><br>
 ### 6. Auth
