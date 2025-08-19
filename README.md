@@ -390,7 +390,7 @@
 
 - 팔로우와 언팔로우를 지정할수있으며 상대방의 글목록과 팔로우 목록을 확인할수있습니다.
 
-<img src="https://github.com/user-attachments/assets/8a5aca5b-fbd9-4d47-aaa6-64aeb7a9f7e3" width="100%" alt="상대방페이지" />
+<img src="https://github.com/user-attachments/assets/f6d08c0c-25e3-44de-91c7-91f95080c5a2" width="100%" alt="상대방페이지" />
 <br>
 
 <br><br>
@@ -400,14 +400,14 @@
 
 - 프로필을 변경할수있습니다.
 
-<img src="https://github.com/user-attachments/assets/09d20b10-6e6f-48ff-b766-71de17509c29" width="100%" alt="프로필 변경" />
+<img src="https://github.com/user-attachments/assets/ac777752-41f7-48a9-aadf-09e938c9b942" width="100%" alt="프로필 변경" />
 <br>
 
 
 - 팔로우 목록에서 팔로우,언팔로우를 할수있습니다.
 - 글목록과 팔로우한 글들을 볼수있습니다.
 
-<img src="https://github.com/user-attachments/assets/d2a3020c-212b-496a-a1ac-8235632656b0" width="100%" alt="팔로우 목록" />
+<img src="https://github.com/user-attachments/assets/68b8c4e7-1d68-48cb-9bbf-72f68aeaf6ad" width="100%" alt="팔로우 목록" />
 <br>
 
 
