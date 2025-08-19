@@ -367,6 +367,15 @@
 
 #### 3.3. Cosmo Talk
 
+- 검색을 사용하여 최근검색기록과 검색내용이 나옵니다.
+
+<img src="https://github.com/user-attachments/assets/43363aaf-4c33-45c1-9633-e5a9fc519815" width="100%" alt="검색" />
+<br>
+
+- 게시글에 들어갈수있으며 팔로우와 언팔로우가 가능합니다.
+
+<img src="https://github.com/user-attachments/assets/bd8ca1dc-5602-4cc7-b8ab-32ec7babffe5" width="100%" alt="팔로우" />
+
 <br><br>
 
 ### 4. Cosmo Lab
@@ -419,8 +428,10 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 
 <br><br>
 ### 6. Auth
-#### 6.1. Login
-#### 6.2. Sign Up
+
+- 로그인,회원가입 및 소셜로그인을 구현하였습니다.
+  
+<img src="https://github.com/user-attachments/assets/b45f50d5-2b68-424e-8dfe-f0d3e2314232" width="100%" alt="로그인" />
 
 <br><br>
 
@@ -439,7 +450,7 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 - 잘못된 경로로 접근할 경우 사용자에게 404 Not Found 페이지를 표시합니다.
 - 팀원들에게 연락할 수 있는 Contact 페이지 또는 홈으로 이동이 가능한 버튼을 두었습니다.
 
-<img src="https://github.com/user-attachments/assets/b6e2617e-70bc-4862-b925-252b1af3ef0c" width="100%" alt="오늘의 나사사진" />
+<img src="https://github.com/user-attachments/assets/b6e2617e-70bc-4862-b925-252b1af3ef0c" width="100%" alt="404" />
 
 <br><br>
 
