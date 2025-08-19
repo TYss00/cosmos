@@ -438,12 +438,12 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 > - 퍼즐 이미지에 대한 설명은 Open AI 를 활용하여 자동 번역 및 요약 처리
 
 - Space게임
-<img src="https://github.com/user-attachments/assets/f65ef347-9acc-48f9-8b32-127080147f37" width="100%" alt="우주게임" />
+<img src="https://github.com/user-attachments/assets/5033de07-a1dc-473b-a3bf-7972e0d09718" width="100%" alt="우주게임" />
 <br>
 
 
 - Film게임게임
-<img src="https://github.com/user-attachments/assets/d3a8b725-fd0f-4d17-9f0c-f8b7bdcc8d9f" width="100%" alt="영화게임" />
+<img src="https://github.com/user-attachments/assets/ebe1749d-7fc7-4ddf-9143-035472427724" width="100%" alt="영화게임" />
 <br>
 
 #### 5.2. Quiz
@@ -455,14 +455,14 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 > - OX형 / 4지선다형 문제 유형 지원
 > - Supabase에서 난이도별 문제 데이터 불러와 무작위 10문제 출제
 > - 사용자 선택 저장 및 이전/다음 문제 이동 시 답안 유지 및 수정 가능
-<img src="https://github.com/user-attachments/assets/a3cf4c24-bf7c-47f4-aa6f-60dde6f638e4" width="100%" alt="퀴즈풀기" />
+<img src="https://github.com/user-attachments/assets/82e9cdda-c883-4c01-b485-2df54f69aac3" width="100%" alt="퀴즈풀기" />
 <br>
 
 
 > 게임 결과
 > - 점수 = (맞춘 문제 개수 × 난이도 계수) × 10
 > - Supabase에 사용자 답안과 점수 저장 및 기존 점수와 합산하여 랭킹 반영
-<img src="https://github.com/user-attachments/assets/07507a77-3712-4f85-a2d8-25ec071dba69" width="100%" alt="퀴즈결과" />
+<img src="https://github.com/user-attachments/assets/0bc2045b-4749-48fc-991f-ac2e6f962f65" width="100%" alt="퀴즈결과" />
 <br>
 
 #### 5.3. Rank
