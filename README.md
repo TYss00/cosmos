@@ -424,7 +424,7 @@ NASA의 APOD 이미지 또는 TMDB 영화 포스터를 이용한 조각 퍼즐 �
 > - 카테고리 : space, film
 > - 난이도 : easy, medium, hard
 
-<img src="https://github.com/user-attachments/assets/88c5533a-9b0a-4a63-be87-ce3dc8bee0ff" width="100%" alt="시작화면" />
+<img src="https://github.com/user-attachments/assets/08c71174-6e40-4c4f-a2cd-df10a11784b6" width="100%" alt="시작화면" />
 <br>
 
 > 게임 화면
